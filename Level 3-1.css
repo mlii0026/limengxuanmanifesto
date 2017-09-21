@@ -1,0 +1,53 @@
+.nav{
+    margin-top: -70px;
+   float: right;    
+   color: lightgrey;
+   padding: 1em 2em 3em;
+}
+
+.page{
+    margin-top: -70px;
+   max-height: 50px;
+   float: left;    
+   color: lightgrey;
+   padding: 1em 2em 3em;
+}
+
+body{
+    width:95%;
+    margin: 20px auto;
+}
+
+.container{
+    width:480px;
+    margin-left: 38%;
+    margin-top: 100px; 
+    position: relative;
+}
+
+.title{
+    display: inline-block;
+    padding: 1em;
+    border: 2px solid black;
+}
+
+.subtitle{ 
+    margin: 0 0 0 0;
+    display: inline-block;
+    border-bottom:2px solid black; 
+    padding-top:1em;
+    padding-bottom: 0.5em;
+    padding-right: 18em;
+}
+
+li{
+    margin-left: -10px;
+    padding-bottom:5px;
+}
+
+#centre{
+    
+    margin-left: 36%;
+    margin-top: 25%; 
+}
+
